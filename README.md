@@ -64,6 +64,8 @@ Converted attributes (e.g., "arched eyebrows", "brown hair", etc.) to natural la
 
 Tokenized and embedded using SBERT.
 
+## Model Link : https://drive.google.com/drive/folders/15SSLQ7bqfuReb0tdBrN9hv1pI10kppox?usp=sharing
+
 ⚙️ Installation
 
 1. Clone the repository
